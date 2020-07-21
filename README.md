@@ -1,4 +1,4 @@
-# FloatingNumbersPlugin
+# Phaser-FloatingNumbersPlugin
 A Floating numbers plugin for Phaser v3 ([Looking for the v2 plugin?](https://github.com/netgfx/Phaser-FloatingText))
 
 
