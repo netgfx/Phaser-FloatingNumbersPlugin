@@ -64,3 +64,11 @@ this.floatingNumbers.createFloatingText({
 };
 ```
 
+#### Todo
+
+- Add examples
+- Support bitmap text
+- Add more effects
+- Make it work nicely when target object is moving
+- Performance review
+
